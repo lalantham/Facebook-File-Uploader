@@ -11,5 +11,7 @@ Instructions
 - Log in to your facebook account.
 - Type " y " in cmd and Press " Enter ".
 
+![AutoFileUploader](https://github.com/lalantham/Facebook-File-Uploader/blob/master/AutoFileUploader.PNG)
+
 Original Creator Of This Script: [shashika555](https://github.com/shashika555).
 All Credits Goes to Original Creator.
